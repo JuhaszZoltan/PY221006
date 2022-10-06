@@ -1,0 +1,17 @@
+# \\pdc\Diakkaptar\Juhász Zoltán\_2022 - 2023\13ESZ\...
+
+# import math
+# -> telejes modult, teljes néven importál:
+# -> 'pi' constant elérése így:
+# math.pi
+
+# import math as matek
+# -> telejes modult, alias néven importál:
+# -> 'pi' constant elérése így:
+# matek.pi
+
+# from math import pi
+# -> csak a felsorolt modulelemeket importálja:
+# -> 'pi' constant elérése így:
+# pi 
+
